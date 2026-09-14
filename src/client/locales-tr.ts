@@ -415,6 +415,8 @@ export const tr: Record<string, string> = {
   tasksZoomOut: 'Uzaklaştır',
   tasksZoomFit: 'Tuvale sığdır',
   tasksNodeJump: 'Transkripti aç',
+  tasksNodeDetail: 'Düğüm ayrıntıları',
+  workflowRun: 'İş akışı',
   tasksNodeState: 'Durum',
   tasksNodeMode: 'Mod',
   tasksNodeModel: 'Model',

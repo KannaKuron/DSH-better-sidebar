@@ -398,6 +398,8 @@ export const sv: Record<string, string> = {
   tasksZoomOut: 'Zooma ut',
   tasksZoomFit: 'Anpassa till ytan',
   tasksNodeJump: 'Öppna transkription',
+  tasksNodeDetail: 'Noddetaljer',
+  workflowRun: 'Arbetsflöde',
   tasksNodeState: 'Status',
   tasksNodeMode: 'Läge',
   tasksNodeModel: 'Modell',
